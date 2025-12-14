@@ -18,4 +18,4 @@ Fazer isso manualmente pode levar a atrasos e perda de oportunidades de desconto
 **Observações finais:**
 Este código foi pensado pra resolver um problema da minha rotina e de um contexto financeiro específico, talvez não funcione pra você.
 
-**Acesso:** https://colab.research.google.com/drive/1zCxp-lstR6TP7E30SCQQXRHL_z15y0zH?usp=sharing
+**Acesso:** https://colab.research.google.com/drive/1VDxmJ50qVFoH-gkAQz_P4Y3KzbclNJWI?usp=sharing
